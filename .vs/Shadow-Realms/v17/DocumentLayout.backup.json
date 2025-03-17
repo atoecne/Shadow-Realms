@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,10 +25,6 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "asssasin.cs",
@@ -36,7 +32,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Assasin\\asssasin.cs",
               "ToolTip": "D:\\From c\\F\\25\\PRU212\\Project\\Group5\\Shadow-Realms\\Assets\\Scripts\\Player\\Assasin\\asssasin.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\Assasin\\asssasin.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwCgAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T17:41:17.174Z",
               "EditorCaption": ""
